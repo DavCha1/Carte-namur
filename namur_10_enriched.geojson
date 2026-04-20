@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8675,
+          50.4603
+        ]
+      },
+      "properties": {
+        "name": "Citadelle de Namur",
+        "type": "historic",
+        "story": "Immense forteresse dominant la ville depuis le Moyen Âge, transformée par Vauban au XVIIe siècle.",
+        "anecdote": "Napoléon considérait la citadelle comme l’une des positions les plus stratégiques d’Europe.",
+        "why": "Vue panoramique exceptionnelle sur la Meuse et la Sambre."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.865,
+          50.4669
+        ]
+      },
+      "properties": {
+        "name": "Centre historique de Namur",
+        "type": "historic",
+        "story": "Quartier ancien mêlant architecture médiévale et bâtiments du XVIIIe siècle.",
+        "anecdote": "Certaines rues suivent encore le tracé médiéval d’origine.",
+        "why": "Parfait pour flâner et découvrir l’ambiance locale."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8662,
+          50.466
+        ]
+      },
+      "properties": {
+        "name": "Musée Félicien Rops",
+        "type": "museum",
+        "story": "Musée dédié à l’artiste symboliste belge Félicien Rops.",
+        "anecdote": "Rops était proche de Baudelaire et des milieux littéraires parisiens.",
+        "why": "Découvrir un artiste provocateur et unique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871,
+          50.465
+        ]
+      },
+      "properties": {
+        "name": "Parc Louise-Marie",
+        "type": "historic",
+        "story": "Parc urbain aménagé au XIXe siècle sur d’anciennes fortifications.",
+        "anecdote": "Il porte le nom de la première reine des Belges.",
+        "why": "Pause nature en plein centre-ville."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.868,
+          50.4675
+        ]
+      },
+      "properties": {
+        "name": "La Table de Constance",
+        "type": "restaurant",
+        "story": "Restaurant gastronomique mettant en valeur les produits du terroir belge.",
+        "anecdote": "Le chef revisite des recettes traditionnelles locales.",
+        "why": "Expérience culinaire raffinée à Namur."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.869,
+          50.4685
+        ]
+      },
+      "properties": {
+        "name": "Brasserie François",
+        "type": "restaurant",
+        "story": "Institution namuroise connue pour ses spécialités belges.",
+        "anecdote": "Très populaire auprès des habitants depuis des décennies.",
+        "why": "Goûter aux classiques comme les moules-frites."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872,
+          50.469
+        ]
+      },
+      "properties": {
+        "name": "Musée des Arts Anciens du Namurois",
+        "type": "museum",
+        "story": "Collection d’objets et d’œuvres retraçant l’histoire régionale.",
+        "anecdote": "Le musée conserve des pièces rares de l’époque médiévale.",
+        "why": "Comprendre l’histoire locale en profondeur."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.864,
+          50.4655
+        ]
+      },
+      "properties": {
+        "name": "Église Saint-Loup",
+        "type": "historic",
+        "story": "Chef-d’œuvre baroque construit au XVIIe siècle.",
+        "anecdote": "Considérée comme l’une des plus belles églises baroques de Belgique.",
+        "why": "Architecture impressionnante et atmosphère unique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8705,
+          50.467
+        ]
+      },
+      "properties": {
+        "name": "Quais de la Meuse",
+        "type": "historic",
+        "story": "Promenade le long de la Meuse, cœur de la vie namuroise.",
+        "anecdote": "Lieu de nombreux événements et festivals.",
+        "why": "Balade agréable avec vue sur la citadelle."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8678,
+          50.468
+        ]
+      },
+      "properties": {
+        "name": "Le Grill des Tanneurs",
+        "type": "restaurant",
+        "story": "Restaurant installé dans un ancien bâtiment historique.",
+        "anecdote": "Situé dans un ancien quartier de tanneurs médiévaux.",
+        "why": "Ambiance unique mêlant histoire et gastronomie."
+      }
+    }
+  ]
+}
